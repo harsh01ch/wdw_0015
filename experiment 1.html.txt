@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course Curriculum</title>
+</head>
+
+<body>
+
+    <h1>Course Curriculum</h1>
+
+    <p>This is the <b>B.Tech AIML</b> course curriculum.</p>
+
+    <p><i>Artificial Intelligence and Machine Learning</i></p>
+
+    <p><u>Web Development</u> is an important skill.</p>
+
+    <p>Special Characters: &copy; &reg; &amp; &lt; &gt;</p>
+
+    <h2>1. Subjects</h2>
+
+    <!-- Ordered List -->
+    <ol>
+        <li>Mathematics</li>
+        <li>Physics</li>
+        <li>Programming</li>
+        <li>Web Development</li>
+    </ol>
+
+    <h2>2. Skills</h2>
+
+    <!-- Unordered List -->
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+        <li>C++</li>
+    </ul>
+
+    <h2>3. Course Description</h2>
+
+    <!-- Description List -->
+    <dl>
+        <dt><b>HTML</b></dt>
+        <dd>Used to create the structure of a webpage.</dd>
+
+        <dt><b>CSS</b></dt>
+        <dd>Used to design and style a webpage.</dd>
+
+        <dt><b>Python</b></dt>
+        <dd>Used for programming and AI/ML.</dd>
+    </dl>
+
+</body>
+</html>> 
